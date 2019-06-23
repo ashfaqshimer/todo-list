@@ -7,10 +7,6 @@ body {
 	background: var(--bg-color);
 }
 
-.container {
-	max-width: 50vw;
-}
-
 input[type='text'],
 input[type='text']:focus {
 	color: #fff;
